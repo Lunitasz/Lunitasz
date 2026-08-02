@@ -9,3 +9,5 @@
 </a>
 </div>
 
+![banner](./terminal-banner.svg)
+
