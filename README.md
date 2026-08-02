@@ -7,6 +7,6 @@
     alt="Typing SVG"/>
 </a>
 
-<img src="./terminal-banner.svg" alt="terminal banner" width="700" />
+<img src="./terminal-banner.svg" alt="terminal banner" width="1000" />
 
 </div>
