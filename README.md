@@ -31,9 +31,7 @@ I'm constantly improving my skills through practical labs, personal projects, an
 - 📚 Always Learning
 
 <td align="center" width="40%">
-    <img src="./chibi1.gif"
-         width="380"
-         height="380"/>
+    <img src="./chibi1.gif" width="380"/>
 </td>
 
 </tr>
